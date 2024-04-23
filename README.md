@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordan Perez</h1>
-<h3 align="center">A passionate programmer from Nicaragua.</h3>
+<h3 align="center">A passionate developer from Nicaragua.</h3>
 
 - 🔭 I’m currently working on developing features for a patient assistant application aimed at enhancing the healthcare experience.
 
