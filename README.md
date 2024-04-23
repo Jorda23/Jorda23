@@ -26,8 +26,8 @@
   </a>
 </p>
 
-<h3 align="center">DevOps Tools:</h3>
-<p align="center">
+<h3 align="left">DevOps Tools:</h3>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,azure" />
   </a>
