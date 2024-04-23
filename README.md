@@ -29,6 +29,6 @@
 <h3 align="center">DevOps Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,azure" />
+    <img src="https://skillicons.dev/icons?i=git,gitkraken,kubernetes,azure" />
   </a>
 </p>
