@@ -15,7 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,angular,flutter,csharp,firebase,nodejs,react,typescript,vite,vitest,jest,vue,angular,androidstudio,sass,sequelize,nodejs,styledcomponents,tailwindcss,xd,ps,ai,nextjs,mysql,materialui,bootstrap&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,angular,flutter,csharp,firebase,nodejs,react,vue,angular,androidstudio,typescript,vite,vitest,jest,sass,sequelize,nodejs,styledcomponents,tailwindcss,xd,ps,ai,nextjs,mysql,materialui,bootstrap&perline=6" />
   </a>
 </p>
 
