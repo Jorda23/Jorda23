@@ -14,17 +14,18 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Replace the icon links with a simple skillicons.dev embed for easier maintenance and a cleaner look -->
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,flutter,csharp,firebase,nodejs,react,typescript,vue,tailwindcss&perline=6)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,angular,flutter,csharp,firebase,nodejs,react,typescript,vue,tailwindcss&perline=6" />
+  </a>
 </p>
 
-<!-- Optional: Add a section with a light theme or different configuration -->
 <h3 align="left">Additional Tools:</h3>
 <p align="left">
-  [![Additional Tools](https://skillicons.dev/icons?i=java,python,docker,kubernetes,aws,gcp&theme=light&perline=3)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,docker,kubernetes,aws,gcp&theme=light&perline=3" />
+  </a>
 </p>
 
-<!-- Centered icons example -->
 <h3 align="center">DevOps Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
