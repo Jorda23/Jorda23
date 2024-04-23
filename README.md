@@ -12,12 +12,14 @@
 <a href="https://linkedin.com/in/jordan-marvin-pérez-peralta-644342224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jordan Marvin Pérez Peralta" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,angular,flutter,csharp,firebase,nodejs,react,vue,angular,androidstudio,typescript,vite,vitest,jest,sass,sequelize,nodejs,styledcomponents,tailwindcss,xd,ps,ai,nextjs,mysql,materialui,bootstrap&perline=6" />
-  </a>
-</p>
+<div style="width: 100%;">
+    <h3 style="text-align: left;">Languages and Tools:</h3>
+    <p style="text-align: left;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,html,css,angular,flutter,csharp,firebase,nodejs,react,vue,angular,androidstudio,typescript,vite,vitest,jest,sass,sequelize,nodejs,styledcomponents,tailwindcss,xd,ps,ai,nextjs,mysql,materialui,bootstrap&perline=6" />
+      </a>
+    </p>
+</div>
 
 <h3 align="left">DevOps Tools:</h3>
 <p align="left">
